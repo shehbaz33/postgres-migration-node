@@ -1,0 +1,9 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "postgres",
+      "password": "Enter your password here",
+      "host": "localhost",
+      "database": "attendancetracker"
+    }
+  }
